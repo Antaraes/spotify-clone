@@ -1,3 +1,2 @@
 # spotify-clone
-next js 
-next-auth
+next js,next-auth
